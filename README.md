@@ -1,1 +1,1 @@
-# citas_react_vite
+# Aplicacion de citas para veterinaria
